@@ -1,6 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Lab | Feature Extraction and Introduction to Supervised Learning
+# Lab | Feature Extraction and Introduction to Supervised Learning 🥑
 
 ## Introduction
 
